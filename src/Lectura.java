@@ -7,7 +7,7 @@ public class Lectura {
         String pelicula=teclado.nextLine();
         System.out.println("Ahora escribe la fecha del lanzamiento");
         int fechaDeLanzamiento=teclado.nextInt();
-        System.out.println("Por ultimo dinos que nota le das a esta pelicula");
+        System.out.println("Por ultimo escribe  que nota le das a esta pelicula");
         double nota=teclado.nextDouble();
         System.out.println(pelicula);
         System.out.println(fechaDeLanzamiento);
